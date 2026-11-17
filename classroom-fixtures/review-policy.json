@@ -3,6 +3,6 @@
   "synthetic": true,
   "negativeMargin": {
     "reviewTeam": "Finance operations",
-    "highPriorityBelowProfit": null
+    "highPriorityBelowProfit": -100
   }
 }
